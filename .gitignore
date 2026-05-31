@@ -1,0 +1,6 @@
+venv/
+dataset/
+model.yml
+labels.json
+attendance.csv
+__pycache__/

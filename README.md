@@ -2,7 +2,7 @@
 
 A small computer vision project that recognises a person's face from a webcam, asks them to blink to prove they are a real human (and not a photo), and then logs them in — all running offline on a Windows laptop, no internet needed.
 
-This is my first proper CV project. I built it phase by phase for the NHAI Hackathon 7.0, and honestly I am still learning, but every piece in here is something I can explain in my own words now. There is a long way to go, but these were the baby steps.
+This is my first proper CV project. I am still learning, but every piece in here is something I can explain in my own words now. There is a long way to go, but these were the baby steps.
 
 ## Why it exists
 
